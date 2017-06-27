@@ -16,3 +16,5 @@ https://cs.stanford.edu/~acoates/stl10/
 download the data set and extract the file. make sure the names of the files extracted match those mentioned in the code. 
 
 there is an issue with loading saved model in keras it has to do with load_model(), I have mentioned about a fix to that problem in the notebook. 
+
+if you are running my code make sure you set the PATH accordingly. 
