@@ -6,7 +6,7 @@ I have used pretrained model of vgg16, that model was created to win image net c
 This repository contains following files 
 
 1) A jupyter notebook, contains everything I have done. 
-2) A hdf5 file containing the weights obtained after training my  model.(saved model)
+2) A hdf5 file containing the weights obtained after training my  model.(saved model) [ file size greater than 25 MB so cant upload], contact me if you want it. I will try to make alternate arrangements. 
 3) A python file to visualzie all the images. 
 
 
